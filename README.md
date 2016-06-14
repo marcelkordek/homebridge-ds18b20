@@ -3,7 +3,7 @@ This is a plugin for the DS18B20 temperature sensors.
 
 Installation
 --------------------
-    sudo npm install -g homebridge-ds18b20
+    sudo npm install -g https://github.com/marcelkordek/homebridge-ds18b20
 
 Sample HomeBridge Configuration
 --------------------
